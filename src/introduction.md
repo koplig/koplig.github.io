@@ -16,12 +16,12 @@
 
 **效果显示：**
 
-🔧 **Full Stack Developer** | 🌍 **Open Source Enthusiast**  
-🚀 Passionate about building scalable web applications using modern technologies.  
-📚 Always learning new things, currently diving into machine learning and blockchain.  
-🌱 Open to collaboration on interesting projects.
-
-🔗 [Personal Website](https://yourwebsite.com) | 🦸‍♂️ [LinkedIn](https://www.linkedin.com/in/yourprofile)
+> 🔧 **Full Stack Developer** | 🌍 **Open Source Enthusiast**  
+> 🚀 Passionate about building scalable web applications using modern technologies.  
+> 📚 Always learning new things, currently diving into machine learning and blockchain.  
+> 🌱 Open to collaboration on interesting projects.
+> 
+> 🔗 [Personal Website](https://yourwebsite.com) | 🦸‍♂️ [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 **特点：**
 
@@ -46,12 +46,12 @@
 
 **效果显示：**
 
-🧑‍💻 **Data Scientist** | 📊 **Machine Learning** Enthusiast  
-🔍 Focused on turning data into insights through statistical analysis and predictive modeling.  
-💡 Currently exploring deep learning and AI applications in healthcare.  
-🔗 Let's collaborate on open-source ML projects!
-
-🌍 [Portfolio](https://yourportfolio.com) | 💬 [Twitter](https://twitter.com/yourprofile) | 📚 [Blog](https://yourblog.com)
+> 🧑‍💻 **Data Scientist** | 📊 **Machine Learning** Enthusiast  
+> 🔍 Focused on turning data into insights through statistical analysis and predictive modeling.  
+> 💡 Currently exploring deep learning and AI applications in healthcare.  
+> 🔗 Let's collaborate on open-source ML projects!
+> 
+> 🌍 [Portfolio](https://yourportfolio.com) | 💬 [Twitter](https://twitter.com/yourprofile) | 📚 [Blog](https://yourblog.com)
 
 **特点：**
 
@@ -75,12 +75,12 @@
 
 **效果显示：**
 
-💡 **Tech Entrepreneur** | 🌱 **Open Source Contributor**  
-🚀 Building the future of [Your Project/Startup] with a focus on [specific technology/industry].  
-🤝 Open to mentorship, collaboration, and community-driven projects.  
-🔨 I’m passionate about creating tools that empower others to innovate.
-
-📫 Reach out to me via [Email](mailto:youremail@example.com)
+> 💡 **Tech Entrepreneur** | 🌱 **Open Source Contributor**  
+> 🚀 Building the future of [Your Project/Startup] with a focus on [specific technology/industry].  
+> 🤝 Open to mentorship, collaboration, and community-driven projects.  
+> 🔨 I’m passionate about creating tools that empower others to innovate.
+> 
+> 📫 Reach out to me via [Email](mailto:youremail@example.com)
 
 **特点：**
 
@@ -104,12 +104,12 @@
 
 **效果显示：**
 
-🎨 **UI/UX Designer** | ✏️ **Product Designer**  
-🌟 Creating beautiful, user-friendly interfaces that solve real-world problems.  
-🌍 Passionate about combining design with technology to deliver outstanding user experiences.  
-🛠 Currently working on [Your Project] — a platform designed to [describe the purpose].
-
-🔗 [Portfolio](https://yourportfolio.com) | 📬 [Email](mailto:youremail@example.com)
+> 🎨 **UI/UX Designer** | ✏️ **Product Designer**  
+> 🌟 Creating beautiful, user-friendly interfaces that solve real-world problems.  
+> 🌍 Passionate about combining design with technology to deliver outstanding user experiences.  
+> 🛠 Currently working on [Your Project] — a platform designed to [describe the purpose].
+> 
+> 🔗 [Portfolio](https://yourportfolio.com) | 📬 [Email](mailto:youremail@example.com)
 
 **特点：**
 
@@ -133,12 +133,12 @@
 
 **效果显示：**
 
-🎓 **PhD in Computer Science** | 🧑‍🔬 **Researcher**  
-🔬 Specializing in artificial intelligence and computational neuroscience.  
-🧠 Currently investigating the intersection of machine learning and cognitive science.  
-🌍 Let's collaborate on research, or explore exciting new ideas in AI and beyond.
-
-🔗 [Research Profile](https://yourresearch.com) | 📧 [Email](mailto:youremail@example.com)
+> 🎓 **PhD in Computer Science** | 🧑‍🔬 **Researcher**  
+> 🔬 Specializing in artificial intelligence and computational neuroscience.  
+> 🧠 Currently investigating the intersection of machine learning and cognitive science.  
+> 🌍 Let's collaborate on research, or explore exciting new ideas in AI and beyond.
+> 
+> 🔗 [Research Profile](https://yourresearch.com) | 📧 [Email](mailto:youremail@example.com)
 
 **特点：**
 
@@ -162,12 +162,12 @@
 
 **效果显示：**
 
-👨‍💻 **Software Engineer** | 📱 **Mobile App Developer** | 🧑‍🎨 **Creative Technologist**  
-🌟 Building apps that make a difference. Passionate about both code and design.  
-🎯 Focus on Android, iOS, and cross-platform app development.  
-🌱 Currently working on [Project Name] — a new way to connect people through technology.
-
-📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/yourprofile) | 📧 [Email](mailto:youremail@example.com)
+> 👨‍💻 **Software Engineer** | 📱 **Mobile App Developer** | 🧑‍🎨 **Creative Technologist**  
+> 🌟 Building apps that make a difference. Passionate about both code and design.  
+> 🎯 Focus on Android, iOS, and cross-platform app development.  
+> 🌱 Currently working on [Project Name] — a new way to connect people through technology.
+> 
+> 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/yourprofile) | 📧 [Email](mailto:youremail@example.com)
 
 **特点：**
 
